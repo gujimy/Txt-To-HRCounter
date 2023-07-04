@@ -5,9 +5,10 @@ Mi Band 2 3 4 Heartrate for Beat Saber
 
 * 使用 Mi Band Heartrate([download](https://github.com/Eryux/miband-heartrate#mi-band-heartrate))) 获得txt心率文件
 
+
 * 节奏光剑心率mod HRCounter ([download](https://github.com/qe201020335/HRCounter)))
 
-
+* 存放在心率txt文件默认设定的存放路径为 D:\heartrate\heartrate.txt 
 
 * mod部分需要修改的部分找到\Beat Saber\UserData\HRCounter.json 打开
   修改部分为：
