@@ -2,6 +2,8 @@
 Mi Band 2 3 4 Heartrate for Beat Saber 
 给小米手环2 3 4 提供的一个节奏光剑 心率显示方案
 
+* 电脑需要有蓝牙连接手环
+* .NET Framework 4.72
 
 * 使用 Mi Band Heartrate([download](https://github.com/Eryux/miband-heartrate#mi-band-heartrate))) 获得txt心率文件
 
