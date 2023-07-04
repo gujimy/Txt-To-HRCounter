@@ -19,3 +19,6 @@ Mi Band 2 3 4 Heartrate for Beat Saber
 "FeedLink": "http://localhost:2548/",
 
 ![image](https://github.com/gujimy/Txt-To-HRCounter/assets/40573598/bdb7ef17-66d4-4d8b-bf0a-fe870c1e9bce)
+
+* 运行TXT.TO.HRCounter.exe 程序会把 D:\heartrate\heartrate.txt 的心率数据发送到 http://localhost:2548/
+
